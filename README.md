@@ -6,6 +6,7 @@ Projeto prático de implementação de Active Directory (AD DS) em ambiente virt
 
 🎯 Objetivo
 
+
 Simular um ambiente empresarial para praticar:
 
 Administração de domínio
