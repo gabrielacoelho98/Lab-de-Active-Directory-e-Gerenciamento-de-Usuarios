@@ -27,15 +27,15 @@ Projeto prático de implementação de Active Directory (AD DS) em ambiente virt
  
 ![maquina virtual](img/00-vm-windows-server.png )
 
-Instalação do Windows Server
+- Instalação do Windows Server
 
 ![Instalação](img/01-instalacao-server.png )
 
-Área de trabalho do servidor
+- Área de trabalho do servidor
 
 ![servidor](img/03-desktop-server.png )
 
-
+--- 
 
  Configuração do Servidor
 
@@ -43,7 +43,7 @@ Instalação do Windows Server
 
 ![ senha do administrador](img/02-senha-admin.png)
 
-Configuração de IP fixo
+- Configuração de IP fixo
 
 ![IP fixo](img/04-ip-fixo-server.png )
 
@@ -56,11 +56,11 @@ Configuração de IP fixo
 
 ![](img/005-instalando-ad.png )
 
-Criação do domínio
+- Criação do domínio
 
 ![ domínio](img/07-criacao-dominio.png )
 
-
+---
 
  Estrutura Organizacional
 
@@ -68,7 +68,7 @@ Criação do domínio
 
 ![departamentos](img/08-departamentos-funcionarios.png )
 
-
+---
 
  Usuários
 
