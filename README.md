@@ -7,23 +7,23 @@ Projeto prático de implementação de Active Directory (AD DS) em ambiente virt
  Objetivo
 
 
-Simular um ambiente empresarial para praticar:
+- Simular um ambiente empresarial para praticar:
 
-Administração de domínio
+- Administração de domínio
 
-Gerenciamento de usuários
+- Gerenciamento de usuários
 
-Organização por departamentos
+- Organização por departamentos
 
-Controle de acesso centralizado
+- Controle de acesso centralizado
 
 ---
 
  Evidências do Projeto 
 
- Ambiente do Servidor
+ - Ambiente do Servidor
 
- Criação da máquina virtual
+ - Criação da máquina virtual
  
 ![maquina virtual](img/00-vm-windows-server.png )
 
@@ -39,7 +39,7 @@ Instalação do Windows Server
 
  Configuração do Servidor
 
-Definição de senha do administrador
+- Definição de senha do administrador
 
 ![ senha do administrador](img/02-senha-admin.png)
 
@@ -52,7 +52,8 @@ Configuração de IP fixo
 
  Active Directory
 
-Instalação do Active Directory
+- Instalação do Active Directory
+
 ![](img/005-instalando-ad.png )
 
 Criação do domínio
@@ -63,7 +64,7 @@ Criação do domínio
 
  Estrutura Organizacional
 
-Criação de departamentos
+- Criação de departamentos
 
 ![departamentos](img/08-departamentos-funcionarios.png )
 
@@ -71,11 +72,11 @@ Criação de departamentos
 
  Usuários
 
-Criação de usuário
+- Criação de usuário
 
 ![Rede Linux](img/09-criacao-usuario.png)
 
-Usuário criado com sucesso
+- Usuário criado com sucesso
 
 ![Rede Linux](img/10-usuario-criado.png)
 
@@ -83,15 +84,15 @@ Usuário criado com sucesso
 
  Conhecimentos Aplicados
 
-Active Directory (AD DS)
+- Active Directory (AD DS)
 
-Domínio Windows Server
+- Domínio Windows Server
 
-Organização de usuários (OU)
+- Organização de usuários (OU)
 
-Administração de ambiente corporativo
+- Administração de ambiente corporativo
 
-Gerenciamento centralizado
+- Gerenciamento centralizado
 
 
 ----
