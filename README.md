@@ -1,10 +1,10 @@
-🏢 Lab de Active Directory (AD)
+ Lab de Active Directory (AD)
 
 Projeto prático de implementação de Active Directory (AD DS) em ambiente virtualizado, simulando um domínio corporativo para gerenciamento centralizado de usuários e recursos.
 
 ---
 
-🎯 Objetivo
+ Objetivo
 
 
 Simular um ambiente empresarial para praticar:
@@ -19,9 +19,9 @@ Controle de acesso centralizado
 
 ---
 
-📸 Evidências do Projeto 
+ Evidências do Projeto 
 
-🖥️ Ambiente do Servidor
+ Ambiente do Servidor
 
  Criação da máquina virtual
  
@@ -37,7 +37,7 @@ Instalação do Windows Server
 
 
 
-⚙️ Configuração do Servidor
+ Configuração do Servidor
 
 Definição de senha do administrador
 
@@ -50,7 +50,7 @@ Configuração de IP fixo
 
 
 
-🌐 Active Directory
+ Active Directory
 
 Instalação do Active Directory
 ![](img/005-instalando-ad.png )
@@ -61,7 +61,7 @@ Criação do domínio
 
 
 
-🏢 Estrutura Organizacional
+ Estrutura Organizacional
 
 Criação de departamentos
 
@@ -69,7 +69,7 @@ Criação de departamentos
 
 
 
-👤 Usuários
+ Usuários
 
 Criação de usuário
 
@@ -81,7 +81,7 @@ Usuário criado com sucesso
 
 ---
 
-📚 Conhecimentos Aplicados
+ Conhecimentos Aplicados
 
 Active Directory (AD DS)
 
@@ -96,6 +96,6 @@ Gerenciamento centralizado
 
 ----
 
-🚀 Resultado
+ Resultado
 
 Foi possível implementar um ambiente de domínio funcional com Active Directory, simulando um cenário real de infraestrutura corporativa com gerenciamento de usuários e estrutura organizacional.
